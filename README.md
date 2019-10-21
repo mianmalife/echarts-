@@ -4,3 +4,5 @@
 
 #### 省份加了省字的版本 `china加了省字的版本.js`
 
+#### `https://gallery.echartsjs.com/explore.html#sort=rank~timeframe=all~author=all`这里是一些案例
+
